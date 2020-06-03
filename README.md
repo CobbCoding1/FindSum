@@ -1,2 +1,2 @@
 # FindSum
-This is an algorithm for finding the sum of numbers in two lists
+This is an algorithm (O(n) for finding the sum of numbers in two lists.
